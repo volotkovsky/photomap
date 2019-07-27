@@ -1,23 +1,24 @@
 {
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [30.47027, 50.44771]
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [30.47027, 50.44771]
+        },
+        "properties": {
+          "img": "img/depo.jpg",
+          "title": "Железнодорожное депо",
+          "year": "2013",
+          "dir": "90"
+        }
+      
       },
-      "properties": {
-        "img": "img/depo.jpg",
-        "title": "Железнодорожное депо",
-        "year": "2013",
-        "dir": "90"
-      }
-    }
-    
-    {
-      "type": "Feature",
-      "geometry": {
+
+      {
+        "type": "Feature",
+        "geometry": {
         "type": "Point",
         "coordinates": [30.45287, 50.45311]
       },
@@ -26,8 +27,10 @@
         "title": "Дом на проспекте Победы, 39",
         "year": "2013",
         "dir": "150"
+        }
+      
       }
-    }
-    
-  ]
-}
+      
+    ]
+  }
+  
