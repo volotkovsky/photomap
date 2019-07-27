@@ -1,36 +1,67 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [30.47027, 50.44771]
-        },
-        "properties": {
-          "img": "img/depo.jpg",
-          "title": "Железнодорожное депо",
-          "year": "2013",
-          "dir": "90"
-        }
-      
-      },
-
-      {
-        "type": "Feature",
-        "geometry": {
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
         "type": "Point",
-        "coordinates": [30.45287, 50.45311]
+        "coordinates": [
+          30.47027,
+          50.44771
+        ]
       },
       "properties": {
-        "img": "img/pobedy39.jpg",
-        "title": "Дом на проспекте Победы, 39",
+        "img": "img/2013/depo.jpg",
+        "title": "Железнодорожное депо",
         "year": "2013",
-        "dir": "150"
-        }
-      
+        "dir": "90",
+        "country": "Украина",
+        "region": "Киев",
+        "location": "КПИ",
+        "marker-color": ""
       }
-      
-    ]
-  }
-  
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.45287,
+          50.45311
+        ]
+      },
+      "properties": {
+        "marker-color": "",
+        "marker-size": "",
+        "marker-symbol": "",
+        "img": "img/2013/pobedy39.jpg",
+        "title": "Дом на проспекте Победы, 39",
+        "year": 2013,
+        "dir": 150,
+        "country": "Украина",
+        "region": "Киев",
+        "location": "КПИ"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "img": "img/2013/sennoy-ruins.jpg",
+        "title": "Руины Сенного рынка",
+        "year": 2013,
+        "dir": 90,
+        "country": "Украина",
+        "region": "Киев",
+        "location": "ул. Бульварно-Кудрявская (Воровского)",
+        "marker-color": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.50280779600143,
+          50.452672890382644
+        ]
+      }
+    }
+  ]
+}
