@@ -14,5 +14,20 @@
         "dir": "90"
       }
     }
+    
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30.45287, 50.45311]
+      },
+      "properties": {
+        "img": "img/pobedy39.jpg",
+        "title": "Дом на проспекте Победы, 39",
+        "year": "2013",
+        "dir": "150"
+      }
+    }
+    
   ]
 }
