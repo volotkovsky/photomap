@@ -5,10 +5,13 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [102.0, 0.5]
+        "coordinates": [30.47027, 50.44771]
       },
       "properties": {
-        "prop0": "value0"
+        "img": "*/img/depo.jpg",
+        "title": "Железнодорожное депо",
+        "year": "2013",
+        "dir": "90"
       }
     }
   ]
