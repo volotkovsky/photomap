@@ -1,0 +1,13 @@
+{
+    "type": "Feature",
+    "properties": {
+        "img": "path",
+        "name": "Название",
+        "dir": "ne",
+        "text": "Описание картинки"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [50.429, 30.518]
+    }
+}
