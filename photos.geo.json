@@ -110,7 +110,7 @@
         "dir": 15,
         "country": "Украина",
         "region": "Киев",
-        "location": "Майдан"
+        "location": "События 2013-14 гг."
       },
       "geometry": {
         "type": "Point",
@@ -129,13 +129,70 @@
         "dir": 180,
         "country": "Украина",
         "region": "Киев",
-        "location": "Майдан"
+        "location": "События 2013-14 гг."
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           30.529836416244507,
           50.45132199835334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "img": "img/2013/swim.jpg",
+        "title": "Днепр",
+        "year": 2013,
+        "dir": 300,
+        "country": "Украина",
+        "region": "Киев",
+        "location": "Днепр"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.534734129905697,
+          50.45714200161902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "img": "img/2014/botsad.jpg",
+        "title": "В Ботаническом саду",
+        "year": 2014,
+        "dir": 150,
+        "country": "Украина",
+        "region": "Киев",
+        "location": "Ботсад на Выдубичах"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.56422233581543,
+          50.41938121322239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dir": 330,
+        "img": "img/2014/banner.jpg",
+        "title": "ЦУМ",
+        "year": 2014,
+        "country": "Украина",
+        "region": "Киев",
+        "location": "Крещатик"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.520818829536438,
+          50.44465065626131
         ]
       }
     }
