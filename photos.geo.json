@@ -67,7 +67,7 @@
       "type": "Feature",
       "properties": {
         "img": "img/2013/dmytrivska24.jpg",
-        "title": "угол ул. Дмитриевской и Воровского",
+        "title": "",
         "year": 2013,
         "dir": 90,
         "country": "Украина",
@@ -86,7 +86,7 @@
       "type": "Feature",
       "properties": {
         "img": "img/2013/gulliver.jpg",
-        "title": "Гулливер",
+        "title": "",
         "year": 2013,
         "dir": 75,
         "country": "Украина",
@@ -149,7 +149,7 @@
       "type": "Feature",
       "properties": {
         "img": "img/2013/swim.jpg",
-        "title": "Днепр",
+        "title": "",
         "year": 2013,
         "dir": 300,
         "country": "Украина",
@@ -188,7 +188,7 @@
       "properties": {
         "dir": 330,
         "img": "img/2014/banner.jpg",
-        "title": "ЦУМ",
+        "title": "",
         "year": 2014,
         "country": "Украина",
         "region": "Киев",
@@ -206,7 +206,7 @@
       "type": "Feature",
       "properties": {
         "img": "img/2010/kremlin.jpg",
-        "title": "Магазин &raquo;Кремль&laquo;",
+        "title": "Магазин &laquo;Кремль&raquo;",
         "year": 2010,
         "dir": 0,
         "country": "Украина",
@@ -218,6 +218,63 @@
         "coordinates": [
           31.610841751098633,
           50.2161288981097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "img": "img/2013/beach-and-bridge.jpg",
+        "title": "",
+        "year": 2013,
+        "dir": 10,
+        "country": "Украина",
+        "region": "Киев",
+        "location": "Днепр"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.533382296562195,
+          50.455984205909076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "img": "img/2014/maidan-rada-samosval-2.jpg",
+        "title": "ул. Шелковичная, 19 января 2014",
+        "year": 2014,
+        "dir": 15,
+        "country": "Украина",
+        "region": "Киев",
+        "location": "События 2013-14 гг."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.534937977790836,
+          50.44580189713466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "img": "img/2014/maidan-snegurochka.jpg",
+        "title": "",
+        "year": 2013,
+        "dir": 90,
+        "country": "Украина",
+        "region": "Киев",
+        "location": "События 2013-14 гг."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.523613691329953,
+          50.449846390796374
         ]
       }
     }
