@@ -168,7 +168,7 @@
       "type": "Feature",
       "properties": {
         "img": "img/2014/botsad.jpg",
-        "title": "В Ботаническом саду",
+        "title": "",
         "year": 2014,
         "dir": 150,
         "country": "Украина",
@@ -275,6 +275,62 @@
         "coordinates": [
           30.523613691329953,
           50.449846390796374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "img": "img/2012/roshen.jpg",
+        "title": "Новый Год",
+        "year": 2012,
+        "dir": 65,
+        "country": "Украина",
+        "region": "Киев",
+        "location": "Вокзал и окрестности"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.490780770778652,
+          50.444315868792515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "img": "img/2012/shpaka.jpg",
+        "year": 2012,
+        "dir": 65,
+        "country": "Украина",
+        "region": "Киев",
+        "location": "Шулявка"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.436656475067135,
+          50.46289982129637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "img": "img/2012/tsum.jpg",
+        "title": "",
+        "year": 2012,
+        "dir": 270,
+        "country": "Украина",
+        "region": "Киев",
+        "location": "Крещатик"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.52117824554443,
+          50.44531680795536
         ]
       }
     }
