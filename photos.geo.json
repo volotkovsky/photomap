@@ -104,8 +104,11 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "",
+        "marker-size": "",
+        "marker-symbol": "",
         "img": "img/2014/maidan-rada-savosval.jpg",
-        "title": "ул. Шелковичная 19 февраля 2014",
+        "title": "ул. Шелковичная, 19 января 2014",
         "year": 2014,
         "dir": 15,
         "country": "Украина",
@@ -123,8 +126,11 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "",
+        "marker-size": "",
+        "marker-symbol": "",
         "img": "img/2014/maidan-bus.jpg",
-        "title": "19 февраля 2014",
+        "title": "19 января 2014",
         "year": 2014,
         "dir": 180,
         "country": "Украина",
@@ -193,6 +199,25 @@
         "coordinates": [
           30.520818829536438,
           50.44465065626131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "img": "img/2010/kremlin.jpg",
+        "title": "Магазин &raquo;Кремль&laquo;",
+        "year": 2010,
+        "dir": 0,
+        "country": "Украина",
+        "region": "Киевская область",
+        "location": "Студеныки (Жовтневе)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.610841751098633,
+          50.2161288981097
         ]
       }
     }
