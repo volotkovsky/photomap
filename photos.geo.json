@@ -81,6 +81,63 @@
           50.448490294198585
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "img": "img/2013/gulliver.jpg",
+        "title": "Гулливер",
+        "year": 2013,
+        "dir": 75,
+        "country": "Украина",
+        "region": "Киев",
+        "location": "ул. Бассейная"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.525201559066772,
+          50.43918102549796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "img": "img/2014/maidan-rada-savosval.jpg",
+        "title": "ул. Шелковичная 19 февраля 2014",
+        "year": 2014,
+        "dir": 15,
+        "country": "Украина",
+        "region": "Киев",
+        "location": "Майдан"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.534852147102356,
+          50.44584972255912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "img": "img/2014/maidan-bus.jpg",
+        "title": "19 февраля 2014",
+        "year": 2014,
+        "dir": 180,
+        "country": "Украина",
+        "region": "Киев",
+        "location": "Майдан"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.529836416244507,
+          50.45132199835334
+        ]
+      }
     }
   ]
 }
